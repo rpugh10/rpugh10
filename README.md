@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, AWS, CI/CD, Bootstrap, and Angular.**
 
-- 👯 I’m looking to collaborate on my [QA Agent project](https://github.com/rpugh10/QA_Agent)!
+- 👯 I’m looking to collaborate on my [QA Agent project!](https://github.com/rpugh10/QA_Agent)
 
 - 👨‍💻 All of my projects are available at [https://rpugh10.github.io/](https://rpugh10.github.io/)
 
