@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpugh10&label=Profile%20views&color=0e75b6&style=flat" alt="rpugh10" /> </p>
 
 
-- 🔭 I’m currently working on [a QA Agent](https://github.com/rpugh10/QA_Agent)
+- 🔭 I’m currently working on a [QA Agent](https://github.com/rpugh10/QA_Agent)
 
 - 🌱 I’m currently learning **React, AWS, CI/CD, Bootstrap, and Angular.**
 
-- 👯 I’m looking to collaborate on [my QA Agent project!](https://github.com/rpugh10/QA_Agent)
+- 👯 I’m looking to collaborate on my [QA Agent project](https://github.com/rpugh10/QA_Agent)!
 
 - 👨‍💻 All of my projects are available at [https://rpugh10.github.io/](https://rpugh10.github.io/)
 
