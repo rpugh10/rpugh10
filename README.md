@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Pugh</h1>
-<h3 align="center">A backend engineer and QA Analyst currently in my 3rd year at Thompson Rivers University</h3>
+<h3 align="center">An aspiring Backend Engineer and QA Analyst currently in my 3rd year at Thompson Rivers University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpugh10&label=Profile%20views&color=0e75b6&style=flat" alt="rpugh10" /> </p>
 
