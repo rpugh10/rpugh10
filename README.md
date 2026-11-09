@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://rpugh10.github.io/assets/Ryan%20Resume%20(10).pdf](https://rpugh10.github.io/assets/Ryan%20Resume%20(10).pdf)
 
-- ⚡ Fun fact **I enjoy skiing, golfing, and Hockey. Also a big UFC fan**
+- ⚡ Fun fact **I enjoy skiing, golfing, and hockey (Go Leafs!). Also a big UFC fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
